@@ -49,7 +49,7 @@ async def metadata():
         "model": "openai/gpt-oss-120b (via Groq)",
         "approach": "single-prompt composer with digest/offer resolution + rule-based "
                     "auto-reply/intent-transition detection ahead of the LLM",
-        "contact_email": "you@example.com",  # <-- edit
+        "contact_email": "ayushkumar_23cs104@dtu.ac.in",  # <-- edit
         "version": "1.0.0",
         "submitted_at": datetime.now(timezone.utc).isoformat(),
     }
